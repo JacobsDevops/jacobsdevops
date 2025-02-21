@@ -12,15 +12,13 @@ I am an AWS/DevOps Architect with a passion for building scalable and efficient 
 
 Here are some of the skills and technologies I'm proficient in:
 
-* **AWS Services:** EC2, S3, RDS, Lambda, VPC, IAM, CloudFormation
+* **Cloud Computing Services:** Amazon Web Services
 * **Containerization Tools:** Docker, Kubernetes, Amazon EKS, Amazon ECS
 * **Infrastructure as Code:** CloudFormation, Terraform
-* **Configuration Management:** Ansible
-* **Continuous Integration/Continuous Delivery (CI/CD):** Jenkins, GitLab CI/CD
-* **Scripting and Programming:** Python, Bash
+* **Continuous Integration/Continuous Delivery (CI/CD):** GitLab CI/CD, GitHub Actions
+* **Programming Language:** Python
 * **Monitoring and Logging:** CloudWatch, Grafana, Prometheus
-* **Cloud Security and Compliance:** IAM Roles and Policies, Security Groups
-* **Database Technologies:** MySQL, PostgreSQL, Amazon RDS
+* **Database Technologies:** Amazon RDS
 
 ## 📫 My Community Profiles
 Connect with me on other platforms:
