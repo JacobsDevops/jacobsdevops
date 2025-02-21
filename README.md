@@ -1,4 +1,4 @@
-# Hello Everyone, 👋 I'm Ismail (Samuel)
+# Hello Everyone, 👋 I'm Ismail 
 Currently working on [Online Store Microservices K3s Kubernetes Deployment](https://github.com/JacobsDevops/online-store-microservices)
 
 ## About Me
