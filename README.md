@@ -1,4 +1,5 @@
 # Hello Everyone, 👋 I'm Ismail (Samuel)
+Currently working on [Online Store Microservices K3s Kubernetes Deployment](https://github.com/JacobsDevops/online-store-microservices)
 
 ## About Me
 I am an AWS/DevOps Architect with a passion for building scalable and efficient cloud solutions. I hold 2 AWS certifications and enjoy creating content to share my knowledge with the community.
